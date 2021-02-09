@@ -1,4 +1,15 @@
-# bot
+# Qbeaton
+
+(命名风格啥的不用在意太多）
+
+---
+
+目标：
+
+- 用Elixir重写所有代码
+- 帮火狐修Bug
+
+---
 
 Based on [Graia](https://github.com/GraiaProject/Application).
 
